@@ -18,7 +18,7 @@ Bom, Você com certeza deve ter um PC que não consegue rodar nem campo minado, 
 Pois é, eu tenho uma mandioca com monitor, enfim chega de enrolação.
 
 ### Otimizando seu PC
-Eu recomendo você seguir esse [Tutorial|](https://www.youtube.com/watch?v=3VV9okffK9M&t=256s)
+Eu recomendo você seguir esse [Tutorial](https://www.youtube.com/watch?v=3VV9okffK9M&t=256s)
 
 #### Efeitos Colaterais
 Se você experenciou algum efeito colateral causado pelo Debloater, siga essas soluções:
@@ -33,5 +33,17 @@ Se você é leigo e não sabe o que é shaders, basicamente tem haver com os gr�
 - Clique na pasta correspondente com sua versão
 - Entre na pasta Shaders
 - Delete tudo **MENOS keepme e Shaders_dx3d9(ou 10)**
+
+
+### Instalando o BloxsTrap
+- *O que é o Bloxtrap?* Bloxtrap é um launcher alternativo para o Roblox que tem várias modificações, open source, e conserta má otimizações no launcher
+- *Tem Vírus?* Obvio que não, pois o launcher é open source e você mesmo, agora, pode ver os arquivos "brutos" do launcher neste [Repositorio](https://github.com/pizzaboxer/bloxstrap)
+
+#### Após instalar o Bloxtrap
+- Vá na aba de Mods e ative a opção de desabilitar o Desktop App, isso irá desativar o launcher Desktop(que é uma merda)
+- Dê uma fuçada na aba de FastFlags, você provavelmente vai achar coisa interessante pra aumentar seu FPS lá
+#### Recomendações de Configuração (FastFlags)
+- Ative a Opção "Preserve Rendering quality with display scaling"
+- Ative a Opção "Use alternate graphics quality selector"
 
 ## ENG
