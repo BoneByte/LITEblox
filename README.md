@@ -8,8 +8,11 @@ A full guide for making roblox run on low-end PCs - Um guia para fazer o Roblox 
 Bom, Você com certeza deve ter um PC que não consegue rodar nem campo minado, mas você quer jogar Roblox, que antigamente rodava em qualquer PC mas agora que o Roblox piorou tanto nessa parte quanto na administração e blá blá blá, Você deve estar se perguntando, O que eu entendo de PC fraco? bom...
 
 **Processador:** *Intel(R) Core(TM)2 Duo CPU     E7500  @ 2.93GHz   2.93 GHz*
+
 **RAM:** *4,00 GB*
+
 **Placa de Vídeo:** *GMA 4500*
+
 **OpenGL:** *1.1*
 
 Pois é, eu tenho uma mandioca com monitor, enfim chega de enrolação.
